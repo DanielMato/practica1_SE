@@ -1,3 +1,6 @@
-# Interrupts
+# Automata
 
-Codigo de práctica para el uso de interrupciones para controlar cuándo se pulsa el botón
+Codigo de práctica para la creacion de un automata con estados
+
+Dudas:
+Por algun motivo el led se enciende al usar clear (PCOR) y se apaga al usar set? (PSOR) Tal vez no haya entendido del todo bien como funciona eso
