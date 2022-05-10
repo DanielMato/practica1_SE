@@ -1,5 +1,5 @@
-# LCD
+# ASM
 
-Codigo para la práctica 2
-Se enciende uno de los dos leds durante 1 segundo, luego se apaga, se actualiza el marcador y se enciende otro led (puede ser el mismo).
-Se cuentan como aciertos si pulsas el botón correcto mientras el led está encendido
+Codigo para la práctica 4
+Al igual que en la práctica 3, al pulsar un botón empieza a contar, y al pulsar el otro para. En este caso en vez de segundos y minutos cuenta 
+segundos hasta llegar a 9999
